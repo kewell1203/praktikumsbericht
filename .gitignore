@@ -3,5 +3,5 @@
 .DS_Store?
 
 #Tex log and aux files#
-.aux
-.log
+*.aux
+*.log
